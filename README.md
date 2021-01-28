@@ -3,6 +3,7 @@
 Recopilación de insultos, que Gargrincho los necesita y oye, nunca viene de más para quien lo necesite.
 
 ```
+Abderramán
 Acaparador
 Acémila
 Adoquín
@@ -72,10 +73,12 @@ Bicho con plumas
 Bípedo implume
 Bobo solemne
 Bolchevique bananero
+Bombilla humana
 Borracho
 Borrachín
 Borrico
 Botarate
+Botijo de gonorrea
 Bribón
 Brincacequias
 Brontosaurio escapado de la prehistoria
@@ -87,9 +90,11 @@ Burricalvo
 Bárbaro
 Cabestro
 Cabeza de mula
+Cabeza de rodilla
 Cafre
 Calabacín
 Calabacín diplomado
+Calvo
 Canaca
 Canalla
 Cantamañanas
@@ -104,6 +109,7 @@ Catacresis
 Catamita de cueva
 Cataplasma
 Catástrofe con gafas
+Cementerio de peines
 Cenutrio
 Ceporro
 Cercopiteco
@@ -121,6 +127,7 @@ Ciclón ambulante
 Cobarde
 Cocalero a rayas
 Cochino
+Cojo malnacido
 Coleóptero
 Coloquinto
 Coloquinto de grasa de antracita
@@ -148,6 +155,7 @@ Cólera
 Dedo divino
 Deficiente
 Degenerado
+Delincuente
 Demonio melenudo
 Desahuciado del purgatorio
 Desalmado
@@ -156,11 +164,15 @@ Descompuesto
 Desdichado
 Desgraciado
 Desgracia humana
+Desguace de piojos
 Desharrapado
+Descendiente de rameras bíblicas
+Desierto de pelo
 Dinamitero
 Diplodocus
 Discapacitado capilar
 Don Cobardiano
+Don Limpio
 Don Tancredo
 Doríforo
 Echoañicos
@@ -203,6 +215,7 @@ Fenómeno de truenos y relámpagos
 Filibustero
 Filoxera
 Flebotoma
+Flequillo de carne
 Follador de alumnos de continua
 Forzudo
 Fátima de baratillo
@@ -212,6 +225,7 @@ Galápago
 Gamberro
 Ganapán
 Gaznápiro
+Genocida de peines
 Giróscopo
 Giróvago
 Gordinflón
@@ -232,6 +246,7 @@ Hidrocarburo
 Hijo de hiena y mandril
 Hijo de mil madres
 Hijo de Satanás
+Hijo de un Sistema Solar rebosante de putas
 Holgazán
 Holograma orondo
 Hombre Bala sin cañón
@@ -275,6 +290,7 @@ Macrocéfalo
 Majadero
 Mala peste
 Mala semilla
+Maleante
 Mamarracho
 Mameluco
 Mancebo
@@ -310,11 +326,13 @@ Mojigato
 Momia
 Monigote
 Mongol
+Moroso de lupanar
 Morsa bigotuda
 Moro
 Morucho
 Moscardón
 Mozo de mulas
+Muerto en vida
 Mulo egregio
 Mujer de moral dudosa
 Mujik
@@ -350,6 +368,7 @@ Patagón
 Patán
 Payaso
 Pazguato
+Pechofrío
 Pecio flotante
 Pequeña calandria de ojos legañosos
 Pelado
@@ -410,9 +429,11 @@ Suspendedor de Excel
 Sátrapa
 Tarugo
 Tecnócrata
+Termotanque de sida
 Terrorista
 Tiesto estéril
 Tísico de la moda
+Tobogán de piojos
 Tonticristo
 Tonto de capirote
 Tonto de todo el mundo y del inframundo
