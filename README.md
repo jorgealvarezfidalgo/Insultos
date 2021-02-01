@@ -140,6 +140,7 @@ Corsario
 Cotorra charlatana
 Cow-boy del volante
 Craco
+Crápula
 Cretino
 Cretino de los Alpes
 Cretino de los Balcanes
