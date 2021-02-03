@@ -353,6 +353,7 @@ Ornitorrinco
 Oso mal peinado
 Ostrogodo
 Pacta-con-todos
+Pacúan
 Paguitero
 Paleto
 Palurdo
@@ -399,6 +400,7 @@ Pusilánime
 Quinquenio del mal
 Rapaz
 Ratón
+Rehén de la alopecia
 Renegado
 Reptil
 Residuo de ectoplasma
@@ -428,6 +430,7 @@ Súbdito
 Supervisor de nubes
 Suspendedor de Excel
 Sátrapa
+Thagomizador
 Tarugo
 Tecnócrata
 Termotanque de sida
