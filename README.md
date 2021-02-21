@@ -183,6 +183,8 @@ El Coma-andante
 El Darth Vader de la Pampa
 El Dioni de la Pampa
 El Jesús Gil de las Vegas
+El Liuzzi de Trubia
+El Massa de La Luz
 El mocho
 El más tonto de los alumnos
 Embustero
